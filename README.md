@@ -15,8 +15,6 @@ A Javascript fullstack developer experienced in building scalable, AI-integrated
 - **PostYourSaaS** – https://www.postyoursaas.com/  
   Platform to showcase and promote SaaS products effectively.
 
-Currently I am building a new mobile application.
-
 ## 🛠 Tech Stack
 
 - **Frontend:** React, Next.js, Tailwind CSS
