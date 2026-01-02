@@ -21,7 +21,7 @@ Currently I am building a new mobile application.
 
 ## 🛠 Tech Stack
 
-- **Frontend:** React, Next.js, Angular, Tailwind CSS
+- **Frontend:** React, Next.js, Tailwind CSS
 - **Backend:** Node.js, Express, FastAPI
 - **Database:** PostgreSQL, MongoDB
 - **Tools:** Git, GitHub, Docker, Prisma
