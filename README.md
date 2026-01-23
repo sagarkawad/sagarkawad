@@ -1,6 +1,6 @@
 # Hi I am Sagar Kawad
 
-A Javascript fullstack developer experienced in building scalable, AI-integrated web applications.
+I am an AI-first Software Engineer / Tinkerer focused on building real-world products. 
 
 - 🔭 Currently working on full-stack & AI-powered projects
 - 🌱 Learning system design & scalable architectures
