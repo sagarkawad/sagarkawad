@@ -1,6 +1,6 @@
 # Hi I am Sagar Kawad
 
-I am an AI-first Software Engineer / Tinkerer focused on providing business solutions. 
+I am an AI-first Software Engineer / Tinkerer focused on solving business problems. 
 
 - 🔭 Currently working on full-stack & AI-powered projects
 - 🌱 Learning system design & scalable architectures
