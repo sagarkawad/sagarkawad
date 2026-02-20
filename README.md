@@ -9,6 +9,7 @@ I am an AI-first Software Engineer / Tinkerer focused on solving business proble
 
 ## 🚀 Products
 - **Nutrilens** - https://www.nutrilenss.com/
+
   A fitness and wellness application with powerful AI integration.
 
 - **Get me Editor** – https://www.getmeditor.pro/  
