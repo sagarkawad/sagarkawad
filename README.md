@@ -11,7 +11,7 @@ I am an AI-first Software Engineer / Tinkerer focused on solving business proble
 - **Nutrilens** - https://www.nutrilenss.com/ <br>
   A fitness and wellness application with powerful AI integration.
 
-- **Get me Editor** – https://www.getmeditor.pro/  
+- **Get me Editor** – https://www.getmeditor.com/  
   A job platform specifically for video editors.
 
 - **PixelOne** – https://www.pixelone.pro/  
